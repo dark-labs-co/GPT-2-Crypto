@@ -21,7 +21,7 @@ The program primarily uses Node / Javascript to retrieve the market data and par
 
 
 2. Clone or Download GPT-2-Crypto-Checkpoint
-[Gitlab-checkpoint](https://gitlab.com/M4pSK/gpt2-server-incrament-checkpoint)
+[Gitlab-checkpoint](https://gitlab.com/M4pSK/gpt2-server-incrament-checkpoints)
 
 - Move /GPT-2-Crypto-Checkpoint/Checkpoint -> /GPT-2-Crypto 
 
